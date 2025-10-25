@@ -1,0 +1,7 @@
+#Rodar pip install -r requirements.txt
+TensorFlow version: 2.12.0
+NumPy version: 1.23.5
+Pandas version: 1.5.3
+Matplotlib version: 3.6.2
+Seaborn version: 0.11.2
+Scikit-learn version: 1.0.2
